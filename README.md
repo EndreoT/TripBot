@@ -1,7 +1,7 @@
 # Trip Bot
 
 ### Description
-TripBot is an interactive web application that lets users find restraunts, hotels, and activities for a chosen destination.
+TripBot is an interactive web application that lets users find restaurants, hotels, and activities for a chosen destination.
 
 ### How It Works
 * Users sign in using Firebase's authentication by way of the Google provider for a personalized experience.
