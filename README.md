@@ -1,6 +1,6 @@
-# Project-1
+# Trip Bot
 
-### TripBot
+### Description
 TripBot is an interactive app that utilizes a questionnaire to help facilitate hotel and restaurant suggestions based on a location input by our user. 
 
 ### How It Works
